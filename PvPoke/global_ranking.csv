@@ -1,0 +1,679 @@
+League,Rank,Pokemon,Score,Fast Move,Charged Move 1,Charged Move 2
+Great,1,Lickilicky,93.7,Rollout,Body Slam*,Shadow Ball
+Great,2,Tinkaton,92.6,Fairy Wind,Gigaton Hammer*,Bulldoze
+Great,3,Altaria,92.2,Dragon Breath,Sky Attack,Flamethrower
+Great,4,Empoleon,92.2,Metal Sound,Hydro Cannon*,Drill Peck
+Great,5,Mimikyu,92.2,Shadow Claw,Shadow Sneak,Play Rough
+Great,6,Altaria (Shadow),91.9,Dragon Breath,Sky Attack,Flamethrower
+Great,7,Empoleon (Shadow),91.9,Metal Sound,Hydro Cannon*,Drill Peck
+Great,8,Quagsire (Shadow),91.8,Mud Shot,Aqua Tail*,Mud Bomb
+Great,9,Quagsire,91.7,Mud Shot,Aqua Tail*,Mud Bomb
+Great,10,Jellicent,91.6,Hex,Surf,Shadow Ball
+Great,11,Forretress,91.5,Volt Switch,Sand Tomb,Rock Tomb
+Great,12,Ninetales,91.4,Ember*,Weather Ball (Fire),Energy Ball*
+Great,13,Cramorant,91.1,Peck,Dive,Fly
+Great,14,Ninetales (Shadow),91.1,Ember*,Weather Ball (Fire),Energy Ball*
+Great,15,Feraligatr,91.0,Shadow Claw,Hydro Cannon*,Ice Beam
+Great,16,Forretress (Shadow),91.0,Volt Switch,Sand Tomb,Rock Tomb
+Great,17,Corsola (Galarian),90.9,Astonish,Night Shade,Power Gem
+Great,18,Jumpluff,90.9,Fairy Wind,Energy Ball,Acrobatics*
+Great,19,Clodsire,90.8,Poison Sting,Earthquake,Stone Edge
+Great,20,Corviknight,90.7,Sand Attack,Air Cutter*,Payback
+Great,21,Fearow,90.7,Peck,Drill Peck,Drill Run
+Great,22,Feraligatr (Shadow),90.6,Shadow Claw,Hydro Cannon*,Ice Beam
+Great,23,Kingdra,90.6,Dragon Breath,Surf,Swift
+Great,24,Azumarill,90.5,Bubble,Ice Beam,Play Rough
+Great,25,Guzzlord,90.5,Dragon Tail,Brutal Swing,Sludge Bomb
+Great,26,Furret,90.3,Sucker Punch,Swift,Trailblaze
+Great,27,Kingdra (Shadow),90.3,Dragon Breath,Surf,Swift
+Great,28,Lapras,90.3,Psywave,Sparkling Aria,Ice Beam*
+Great,29,Corviknight (Shadow),90.2,Sand Attack,Air Cutter*,Payback
+Great,30,Dragonair (Shadow),90.2,Dragon Breath,Wrap,Aqua Tail
+Great,31,Sableye (Shadow),90.2,Shadow Claw,Foul Play,Drain Punch
+Great,32,Seismitoad,90.2,Mud Shot,Earth Power,Icy Wind
+Great,33,Umbreon,90.2,Snarl,Foul Play,Last Resort*
+Great,34,Medicham,90.1,Psycho Cut,Ice Punch,Dynamic Punch
+Great,35,Talonflame,90.1,Incinerate*,Fly,Brave Bird
+Great,36,Dragonair,90.0,Dragon Breath,Aqua Tail,Dragon Pulse
+Great,37,Oinkologne (Female),89.9,Mud Slap*,Body Slam,Trailblaze
+Great,38,Sliggoo,89.9,Dragon Breath,Body Slam,Dragon Pulse
+Great,39,Sealeo,89.8,Powder Snow,Surf,Body Slam
+Great,40,Greedent,89.7,Mud Shot,Body Slam,Trailblaze
+Great,41,Grumpig,89.7,Psywave,Dynamic Punch,Shadow Ball
+Great,42,Sealeo (Shadow),89.7,Powder Snow,Surf,Body Slam
+Great,43,Thievul,89.7,Sucker Punch,Night Slash,Icy Wind*
+Great,44,Diggersby,89.6,Mud Shot,Fire Punch,Scorching Sands
+Great,45,Dusclops,89.6,Hex,Ice Punch,Shadow Punch
+Great,46,Lapras (Shadow),89.5,Psywave,Sparkling Aria,Ice Beam*
+Great,47,Sableye,89.5,Shadow Claw,Foul Play,Power Gem
+Great,48,Wigglytuff,89.5,Charm,Icy Wind,Swift
+Great,49,Cradily,89.4,Acid,Rock Tomb,Grass Knot
+Great,50,Dusclops (Shadow),89.4,Hex,Ice Punch,Shadow Punch
+Great,51,Florges,89.4,Fairy Wind,Chilling Water*,Disarming Voice
+Great,52,Moltres (Galarian),89.4,Sucker Punch,Fly,Brave Bird
+Great,53,Blastoise,89.3,Rollout,Hydro Cannon*,Skull Bash
+Great,54,Clefable,89.3,Fairy Wind,Moonblast,Meteor Mash
+Great,55,Mantine,89.3,Wing Attack,Twister,Water Pulse
+Great,56,Talonflame (Shadow),89.3,Incinerate*,Flame Charge,Fly
+Great,57,Mandibuzz,89.2,Snarl,Foul Play,Shadow Ball
+Great,58,Dewgong,89.1,Ice Shard*,Icy Wind*,Drill Run
+Great,59,Malamar,89.1,Psywave,Superpower,Foul Play
+Great,60,Steelix (Shadow),89.1,Thunder Fang,Psychic Fangs,Crunch
+Great,61,Charjabug,89.0,Volt Switch*,X-Scissor,Discharge
+Great,62,Drapion (Shadow),89.0,Poison Sting,Crunch,Aqua Tail
+Great,63,Gastrodon,89.0,Mud Slap,Body Slam,Earth Power
+Great,64,Ninetales (Alolan),89.0,Powder Snow,Weather Ball (Ice),Chilling Water*
+Great,65,Ninetales (Alolan) (Shadow),88.8,Powder Snow,Weather Ball (Ice),Chilling Water*
+Great,66,Swampert,88.8,Mud Shot,Hydro Cannon*,Earthquake
+Great,67,Aegislash (Shield),88.7,Psycho Cut,Shadow Ball,Gyro Ball
+Great,68,Bastiodon,88.7,Smack Down,Stone Edge,Flamethrower
+Great,69,Marowak (Shadow),88.7,Mud Slap,Bone Club,Rock Slide
+Great,70,Swampert (Shadow),88.7,Mud Shot,Hydro Cannon*,Earthquake
+Great,71,Stunfisk (Galarian),88.5,Mud Shot,Rock Slide,Earthquake
+Great,72,Stunfisk,88.4,Thunder Shock,Mud Bomb,Discharge
+Great,73,Hydreigon (Shadow),88.3,Dragon Breath,Brutal Swing*,Fly
+Great,74,Registeel,88.3,Lock On,Flash Cannon,Focus Blast
+Great,75,Dusknoir (Shadow),88.2,Astonish,Dynamic Punch,Shadow Punch
+Great,76,Malamar (Shadow),88.2,Psywave,Foul Play,Superpower
+Great,77,Dunsparce,88.1,Rollout,Drill Run,Rock Slide
+Great,78,Jumpluff (Shadow),88.0,Fairy Wind,Energy Ball,Acrobatics*
+Great,79,Melmetal,88.0,Thunder Shock,Double Iron Bash*,Dynamic Punch
+Great,80,Morpeko (Full Belly),88.0,Thunder Shock,Aura Wheel,Psychic Fangs
+Great,81,Pelipper,88.0,Wing Attack,Weather Ball (Water),Hurricane
+Great,82,Turtonator,88.0,Incinerate,Brutal Swing,Dragon Claw
+Great,83,Oranguru,87.9,Confusion,Brutal Swing,Trailblaze
+Great,84,Seaking,87.9,Peck,Drill Run*,Icy Wind*
+Great,85,Dondozo,87.8,Waterfall,Surf,Outrage
+Great,86,Gourgeist (Large),87.8,Incinerate,Shadow Ball,Seed Bomb
+Great,87,Gourgeist (Super),87.8,Incinerate,Shadow Ball,Seed Bomb
+Great,88,Milotic,87.8,Waterfall,Aqua Tail,Wrap
+Great,89,Shelgon,87.8,Dragon Breath,Twister,Flamethrower
+Great,90,Gourgeist (Average),87.7,Incinerate,Shadow Ball,Seed Bomb
+Great,91,Hydreigon,87.7,Dragon Breath,Brutal Swing*,Fly
+Great,92,Drapion,87.6,Poison Sting,Crunch,Aqua Tail
+Great,93,Shelgon (Shadow),87.6,Dragon Breath,Twister,Flamethrower
+Great,94,Doublade,87.5,Shadow Claw,Sacred Sword,Gyro Ball
+Great,95,Morgrem,87.5,Sucker Punch,Foul Play,Play Rough
+Great,96,Samurott,87.5,Fury Cutter,Hydro Cannon*,Megahorn
+Great,97,Crustle,87.4,Fury Cutter,X-Scissor,Rock Wrecker
+Great,98,Dusknoir,87.4,Astonish,Dynamic Punch,Shadow Punch
+Great,99,Gourgeist (Small),87.4,Incinerate,Shadow Ball,Seed Bomb
+Great,100,Castform (Sunny),87.3,Ember,Weather Ball (Fire),Solar Beam
+Great,101,Spidops,87.2,Shadow Claw,Lunge,Rock Tomb
+Great,102,Aromatisse,87.1,Fairy Wind,Psyshock,Moonblast
+Great,103,Toxapex,87.1,Poison Jab,Brine,Sludge Wave
+Great,104,Miltank,87.0,Rollout,Body Slam,Thunderbolt
+Great,105,Carbink,86.9,Rock Throw,Rock Slide,Moonblast
+Great,106,Golisopod,86.9,Fury Cutter,X-Scissor,Aqua Jet
+Great,107,Milotic (Shadow),86.9,Waterfall,Aqua Tail,Wrap
+Great,108,Crustle (Shadow),86.8,Fury Cutter,X-Scissor,Rock Wrecker
+Great,109,Ludicolo,86.8,Astonish,Weather Ball (Water),Energy Ball
+Great,110,Aurorus,86.7,Powder Snow,Weather Ball (Ice),Meteor Beam
+Great,111,Gligar,86.7,Wing Attack,Night Slash,Dig
+Great,112,Lumineon,86.7,Gust,Aqua Tail,Silver Wind
+Great,113,Primeape (Shadow),86.7,Karate Chop*,Rage Fist*,Ice Punch
+Great,114,Togekiss,86.7,Peck,Psyshock,Aura Sphere*
+Great,115,Grumpig (Shadow),86.6,Psywave,Dynamic Punch,Shadow Ball
+Great,116,Politoed (Shadow),86.6,Mud Shot,Weather Ball (Water),Ice Beam*
+Great,117,Sylveon,86.6,Fairy Wind,Psyshock*,Shadow Ball
+Great,118,Toucannon,86.6,Peck,Beak Blast*,Drill Peck
+Great,119,Noctowl,86.4,Wing Attack,Shadow Ball,Return<sup>†</sup>
+Great,120,Walrein,86.4,Powder Snow*,Icicle Spear*,Earthquake
+Great,121,Sandslash (Alolan),86.3,Powder Snow,Ice Punch,Drill Run
+Great,122,Toucannon (Shadow),86.3,Peck,Beak Blast*,Drill Peck
+Great,123,Gligar (Shadow),86.2,Wing Attack,Night Slash,Dig
+Great,124,Lickitung,86.2,Lick,Body Slam*,Power Whip
+Great,125,Weezing (Galarian) (Shadow),86.2,Fairy Wind,Sludge,Brutal Swing
+Great,126,Araquanid,86.1,Bug Bite,Water Pulse,Bubble Beam
+Great,127,Greninja (Shadow),86.1,Water Shuriken,Hydro Cannon*,Night Slash
+Great,128,Hippowdon,86.1,Sand Attack,Weather Ball (Rock),Earth Power
+Great,129,Swalot,86.1,Mud Shot,Sludge,Ice Beam
+Great,130,Cresselia,86.0,Psycho Cut,Grass Knot*,Moonblast
+Great,131,Murkrow (Shadow),86.0,Peck,Drill Peck,Foul Play
+Great,132,Regidrago,86.0,Dragon Breath*,Dragon Energy*,Vise Grip
+Great,133,Cradily,85.9,Bullet Seed,Rock Tomb,Grass Knot
+Great,134,Goodra,85.9,Dragon Breath,Aqua Tail,Thunder Punch*
+Great,135,Pachirisu,85.9,Volt Switch,Hyper Fang,Thunder Punch
+Great,136,Bellibolt,85.8,Thunder Shock,Zap Cannon,Parabolic Charge
+Great,137,Linoone,85.8,Shadow Claw,Swift,Grass Knot
+Great,138,Steelix,85.8,Thunder Fang,Psychic Fangs,Crunch
+Great,139,Zweilous,85.8,Dragon Breath,Body Slam,Dark Pulse
+Great,140,Kommo-o,85.7,Dragon Tail,Clanging Scales*,Upper Hand
+Great,141,Sandslash (Alolan) (Shadow),85.7,Powder Snow,Ice Punch,Drill Run
+Great,142,Spiritomb,85.7,Sucker Punch,Rock Tomb,Shadow Ball
+Great,143,Araquanid (Shadow),85.6,Bug Bite,Bubble Beam,Water Pulse
+Great,144,Giratina (Altered) (Shadow),85.6,Dragon Breath,Dragon Claw,Shadow Sneak
+Great,145,Lanturn,85.6,Water Gun,Surf,Thunderbolt
+Great,146,Qwilfish (Shadow),85.6,Poison Sting,Aqua Tail,Shadow Ball
+Great,147,Klefki,85.5,Astonish,Foul Play,Play Rough
+Great,148,Ledian,85.5,Rollout,Dynamic Punch,Acrobatics
+Great,149,Marowak,85.5,Mud Slap,Bone Club,Rock Slide
+Great,150,Zweilous (Shadow),85.5,Dragon Breath,Body Slam,Dark Pulse
+Great,151,Annihilape,85.4,Low Kick,Rage Fist*,Ice Punch
+Great,152,Diggersby (Shadow),85.4,Mud Shot,Scorching Sands,Fire Punch
+Great,153,Dragalge,85.4,Acid,Aqua Tail,Outrage
+Great,154,Dudunsparce,85.4,Rollout,Body Slam,Drill Run
+Great,155,Hakamo-o,85.4,Dragon Tail,Brick Break,Rock Tomb
+Great,156,Walrein (Shadow),85.4,Powder Snow*,Icicle Spear*,Earthquake
+Great,157,Pidgeot,85.3,Gust*,Air Cutter*,Brave Bird
+Great,158,Abomasnow (Shadow),85.1,Powder Snow,Weather Ball (Ice),Energy Ball
+Great,159,Dubwool,85.1,Double Kick,Body Slam,Payback
+Great,160,Metang (Shadow),85.1,Fury Cutter,Psyshock,Gyro Ball
+Great,161,Samurott (Shadow),85.1,Fury Cutter,Hydro Cannon*,Megahorn
+Great,162,Politoed,85.0,Mud Shot,Weather Ball (Water),Ice Beam*
+Ultra,1,Mimikyu,95.9,Shadow Claw,Shadow Sneak,Play Rough
+Ultra,2,Lickilicky,93.8,Rollout,Body Slam*,Shadow Ball
+Ultra,3,Corviknight,93.4,Sand Attack,Air Cutter*,Payback
+Ultra,4,Tinkaton,93.2,Fairy Wind,Gigaton Hammer*,Bulldoze
+Ultra,5,Corviknight (Shadow),93.1,Sand Attack,Air Cutter*,Payback
+Ultra,6,Florges,93.0,Fairy Wind,Chilling Water*,Disarming Voice
+Ultra,7,Virizion,92.8,Double Kick,Leaf Blade,Sacred Sword*
+Ultra,8,Empoleon (Shadow),92.7,Metal Sound,Hydro Cannon*,Drill Peck
+Ultra,9,Empoleon,92.5,Metal Sound,Hydro Cannon*,Drill Peck
+Ultra,10,Moltres (Galarian),92.2,Sucker Punch,Fly,Brave Bird
+Ultra,11,Annihilape,91.8,Low Kick,Rage Fist*,Ice Punch
+Ultra,12,Annihilape (Shadow),91.8,Counter,Rage Fist*,Ice Punch
+Ultra,13,Jellicent,91.8,Hex,Surf,Shadow Ball
+Ultra,14,Primeape,91.8,Karate Chop*,Rage Fist*,Ice Punch
+Ultra,15,Forretress,91.7,Volt Switch,Sand Tomb,Rock Tomb
+Ultra,16,Zygarde (Complete Forme),91.7,Dragon Tail,Crunch,Earthquake
+Ultra,17,Feraligatr (Shadow),91.1,Shadow Claw,Hydro Cannon*,Ice Beam
+Ultra,18,Forretress (Shadow),91.1,Volt Switch,Sand Tomb,Rock Tomb
+Ultra,19,Ninetales (Alolan),91.1,Powder Snow,Weather Ball (Ice),Chilling Water*
+Ultra,20,Kingdra,91.0,Dragon Breath,Surf,Swift
+Ultra,21,Ninetales (Alolan) (Shadow),90.8,Powder Snow,Weather Ball (Ice),Chilling Water*
+Ultra,22,Registeel,90.8,Lock On,Flash Cannon,Focus Blast
+Ultra,23,Blastoise,90.7,Rollout,Hydro Cannon*,Skull Bash
+Ultra,24,Dusknoir,90.7,Astonish,Dynamic Punch,Shadow Punch
+Ultra,25,Lapras,90.7,Psywave,Sparkling Aria,Ice Beam*
+Ultra,26,Malamar,90.7,Psywave,Superpower,Foul Play
+Ultra,27,Cramorant,90.6,Peck,Dive,Fly
+Ultra,28,Dusknoir (Shadow),90.6,Astonish,Dynamic Punch,Shadow Punch
+Ultra,29,Malamar (Shadow),90.6,Psywave,Foul Play,Superpower
+Ultra,30,Lapras (Shadow),90.5,Psywave,Sparkling Aria,Ice Beam*
+Ultra,31,Regidrago,90.5,Dragon Breath*,Dragon Energy*,Vise Grip
+Ultra,32,Talonflame,90.5,Incinerate*,Fly,Brave Bird
+Ultra,33,Walrein,90.5,Powder Snow*,Icicle Spear*,Earthquake
+Ultra,34,Walrein (Shadow),90.5,Powder Snow*,Icicle Spear*,Earthquake
+Ultra,35,Dondozo,90.4,Waterfall,Surf,Outrage
+Ultra,36,Giratina (Altered),90.4,Dragon Breath,Dragon Claw,Shadow Sneak
+Ultra,37,Talonflame (Shadow),90.2,Incinerate*,Flame Charge,Fly
+Ultra,38,Bellibolt,90.1,Thunder Shock,Zap Cannon,Parabolic Charge
+Ultra,39,Kingdra (Shadow),90.0,Dragon Breath,Surf,Swift
+Ultra,40,Milotic,89.9,Waterfall,Aqua Tail,Wrap
+Ultra,41,Ninetales,89.9,Ember*,Weather Ball (Fire),Energy Ball*
+Ultra,42,Steelix,89.9,Thunder Fang,Psychic Fangs,Crunch
+Ultra,43,Cradily,89.8,Acid,Rock Tomb,Grass Knot
+Ultra,44,Cresselia,89.8,Psycho Cut,Grass Knot*,Moonblast
+Ultra,45,Feraligatr,89.7,Shadow Claw,Hydro Cannon*,Ice Beam
+Ultra,46,Giratina (Altered) (Shadow),89.7,Dragon Breath,Dragon Claw,Shadow Sneak
+Ultra,47,Oranguru,89.7,Confusion,Brutal Swing,Trailblaze
+Ultra,48,Seaking,89.7,Peck,Drill Run*,Icy Wind*
+Ultra,49,Swampert,89.6,Mud Shot,Hydro Cannon*,Earthquake
+Ultra,50,Runerigus,89.5,Shadow Claw,Shadow Ball,Rock Tomb
+Ultra,51,Steelix (Shadow),89.4,Thunder Fang,Psychic Fangs,Crunch
+Ultra,52,Cradily (Shadow),89.3,Acid,Rock Tomb,Grass Knot
+Ultra,53,Cresselia (Shadow),89.2,Psycho Cut,Grass Knot*,Moonblast
+Ultra,54,Clefable,89.1,Fairy Wind,Moonblast,Meteor Mash
+Ultra,55,Ninetales (Shadow),89.1,Ember*,Weather Ball (Fire),Energy Ball*
+Ultra,56,Raikou (Shadow),89.1,Thunder Shock,Wild Charge,Aura Sphere
+Ultra,57,Ampharos (Shadow),89.0,Volt Switch,Brutal Swing,Trailblaze
+Ultra,58,Milotic (Shadow),89.0,Waterfall,Aqua Tail,Wrap
+Ultra,59,Togekiss,89.0,Peck,Psyshock,Aura Sphere*
+Ultra,60,Turtonator,89.0,Incinerate,Brutal Swing,Dragon Claw
+Ultra,61,Ampharos,88.9,Volt Switch,Brutal Swing,Trailblaze
+Ultra,62,Guzzlord,88.9,Dragon Tail,Brutal Swing,Sludge Bomb
+Ultra,63,Hippowdon,88.9,Sand Attack,Weather Ball (Rock),Earth Power
+Ultra,64,Aromatisse,88.8,Fairy Wind,Psyshock,Moonblast
+Ultra,65,Golisopod,88.8,Fury Cutter,X-Scissor,Aqua Jet
+Ultra,66,Gyarados,88.8,Dragon Breath,Aqua Tail*,Twister
+Ultra,67,Hydreigon (Shadow),88.8,Dragon Breath,Brutal Swing*,Fly
+Ultra,68,Orthworm,88.8,Mud Slap,Rock Tomb,Earthquake
+Ultra,69,Toucannon,88.8,Peck,Beak Blast*,Drill Peck
+Ultra,70,Toucannon (Shadow),88.8,Peck,Beak Blast*,Drill Peck
+Ultra,71,Hippowdon (Shadow),88.6,Sand Attack,Weather Ball (Rock),Earth Power
+Ultra,72,Melmetal,88.6,Thunder Shock,Double Iron Bash*,Dynamic Punch
+Ultra,73,Seismitoad,88.6,Mud Shot,Earth Power,Icy Wind
+Ultra,74,Primarina,88.5,Waterfall,Disarming Voice,Hydro Cannon*
+Ultra,75,Cobalion,88.4,Double Kick,Sacred Sword*,Stone Edge
+Ultra,76,Goodra,88.4,Dragon Breath,Aqua Tail,Thunder Punch*
+Ultra,77,Samurott,88.4,Fury Cutter,Hydro Cannon*,Megahorn
+Ultra,78,Blastoise (Shadow),88.2,Rollout,Hydro Cannon*,Skull Bash
+Ultra,79,Sylveon,88.2,Fairy Wind,Psyshock*,Shadow Ball
+Ultra,80,Tentacruel (Shadow),88.2,Acid,Scald,Payback
+Ultra,81,Dragalge,88.1,Acid,Aqua Tail,Outrage
+Ultra,82,Dudunsparce,88.1,Rollout,Body Slam,Drill Run
+Ultra,83,Tentacruel,88.1,Acid,Scald,Payback
+Ultra,84,Aurorus,88.0,Powder Snow,Weather Ball (Ice),Meteor Beam
+Ultra,85,Gyarados (Shadow),88.0,Dragon Breath,Aqua Tail*,Twister
+Ultra,86,Sandslash (Alolan) (Shadow),88.0,Powder Snow,Ice Punch,Drill Run
+Ultra,87,Scizor (Shadow),87.9,Bullet Punch,Night Slash,Trailblaze
+Ultra,88,Stunfisk,87.9,Thunder Shock,Mud Bomb,Discharge
+Ultra,89,Weezing (Galarian),87.9,Fairy Wind,Sludge,Brutal Swing
+Ultra,90,Oinkologne (Female),87.8,Mud Slap*,Body Slam,Trailblaze
+Ultra,91,Gastrodon,87.7,Mud Slap,Body Slam,Earth Power
+Ultra,92,Kommo-o,87.7,Dragon Tail,Clanging Scales*,Upper Hand
+Ultra,93,Ludicolo,87.7,Astonish,Weather Ball (Water),Energy Ball
+Ultra,94,Sandslash (Alolan),87.7,Powder Snow,Ice Punch,Drill Run
+Ultra,95,Weezing (Galarian) (Shadow),87.7,Fairy Wind,Sludge,Brutal Swing
+Ultra,96,Aurorus (Shadow),87.6,Powder Snow,Weather Ball (Ice),Meteor Beam
+Ultra,97,Crustle,87.5,Fury Cutter,X-Scissor,Rock Wrecker
+Ultra,98,Drapion,87.5,Poison Sting,Crunch,Aqua Tail
+Ultra,99,Skeledirge,87.5,Incinerate,Torch Song,Shadow Ball
+Ultra,100,Swampert (Shadow),87.5,Mud Shot,Hydro Cannon*,Earthquake
+Ultra,101,Raichu,87.4,Thunder Shock,Wild Charge,Trailblaze
+Ultra,102,Samurott (Shadow),87.4,Fury Cutter,Hydro Cannon*,Megahorn
+Ultra,103,Cofagrigus,87.3,Shadow Claw,Shadow Ball,Return<sup>†</sup>
+Ultra,104,Drapion (Shadow),87.2,Poison Sting,Crunch,Aqua Tail
+Ultra,105,Grumpig,87.2,Psywave,Dynamic Punch,Shadow Ball
+Ultra,106,Latias,87.2,Dragon Breath,Aura Sphere,Mist Ball*
+Ultra,107,Miltank,87.2,Rollout,Body Slam,Thunderbolt
+Ultra,108,Politoed (Shadow),87.2,Mud Shot,Weather Ball (Water),Ice Beam*
+Ultra,109,Zapdos,87.2,Thunder Shock*,Drill Peck,Heat Wave
+Ultra,110,Abomasnow (Shadow),87.1,Powder Snow,Weather Ball (Ice),Energy Ball
+Ultra,111,Articuno,87.1,Powder Snow,Icy Wind,Hurricane*
+Ultra,112,Stunfisk (Galarian),87.0,Mud Shot,Rock Slide,Earthquake
+Ultra,113,Kyurem,86.9,Dragon Breath,Glaciate*,Dragon Claw
+Ultra,114,Mandibuzz,86.9,Snarl,Foul Play,Shadow Ball
+Ultra,115,Raikou,86.9,Thunder Shock,Wild Charge,Aura Sphere
+Ultra,116,Grimmsnarl,86.8,Sucker Punch,Foul Play,Play Rough
+Ultra,117,Mewtwo (Armored),86.7,Confusion,Psystrike*,Dynamic Punch
+Ultra,118,Bombirdier,86.6,Sucker Punch,Fly,Rock Tomb
+Ultra,119,Drifblim,86.5,Hex,Icy Wind,Shadow Ball
+Ultra,120,Greedent,86.5,Mud Shot,Body Slam,Trailblaze
+Ultra,121,Grumpig (Shadow),86.5,Psywave,Dynamic Punch,Shadow Ball
+Ultra,122,Politoed,86.5,Mud Shot,Weather Ball (Water),Ice Beam*
+Ultra,123,Nidoqueen,86.4,Mud Slap,Earth Power,Poison Fang
+Ultra,124,Articuno (Shadow),86.3,Powder Snow,Triple Axel,Hurricane*
+Ultra,125,Doublade,86.3,Shadow Claw,Sacred Sword,Gyro Ball
+Ultra,126,Jirachi,86.3,Confusion,Doom Desire,Aura Sphere
+Ultra,127,Gourgeist (Super),86.2,Incinerate,Shadow Ball,Seed Bomb
+Ultra,128,Zapdos (Shadow),86.2,Thunder Shock*,Drill Peck,Heat Wave
+Ultra,129,Blaziken (Shadow),86.1,Ember,Aura Sphere,Blast Burn*
+Ultra,130,Rapidash (Shadow),86.1,Incinerate,Drill Run,Wild Charge*
+Ultra,131,Abomasnow,86.0,Powder Snow,Weather Ball (Ice),Energy Ball
+Ultra,132,Primeape (Shadow),85.9,Karate Chop*,Rage Fist*,Ice Punch
+Ultra,133,Crustle (Shadow),85.8,Fury Cutter,X-Scissor,Rock Wrecker
+Ultra,134,Drifblim (Shadow),85.8,Astonish,Icy Wind,Shadow Ball
+Ultra,135,Trevenant (Shadow),85.8,Shadow Claw,Shadow Ball,Seed Bomb
+Ultra,136,Gourgeist (Average),85.7,Incinerate,Shadow Ball,Seed Bomb
+Ultra,137,Gourgeist (Large),85.7,Incinerate,Shadow Ball,Seed Bomb
+Ultra,138,Rapidash,85.7,Incinerate,Drill Run,Wild Charge*
+Ultra,139,Spiritomb,85.7,Sucker Punch,Rock Tomb,Shadow Ball
+Ultra,140,Coalossal,85.6,Fire Spin,Rock Slide,Flame Charge
+Ultra,141,Mantine,85.6,Wing Attack,Twister,Water Pulse
+Ultra,142,Trevenant,85.6,Shadow Claw,Seed Bomb,Shadow Ball
+Ultra,143,Nidoqueen (Shadow),85.4,Mud Slap,Earth Power,Poison Fang
+Ultra,144,Zeraora,85.4,Volt Switch,Plasma Fists,Wild Charge
+Ultra,145,Electrode (Hisuian),85.3,Thunder Shock,Wild Charge,Energy Ball
+Ultra,146,Palossand,85.3,Astonish,Shadow Ball,Sand Tomb
+Ultra,147,Hydreigon,85.1,Dragon Breath,Brutal Swing*,Fly
+Ultra,148,Pelipper,85.1,Wing Attack,Weather Ball (Water),Hurricane
+Ultra,149,Yveltal,85.1,Sucker Punch,Dark Pulse,Oblivion Wing*
+Ultra,150,Bronzong,85.0,Confusion,Weather Ball (Water),Payback
+Ultra,151,Regirock,85.0,Lock On,Stone Edge,Focus Blast
+Master,1,Zacian (Crowned Sword),99.0,Metal Claw,Close Combat,Behemoth Blade<sup>†</sup>
+Master,2,Palkia (Origin),98.9,Dragon Breath,Aqua Tail,Spacial Rend<sup>†</sup>
+Master,3,Metagross,97.9,Shadow Claw*,Meteor Mash*,Earthquake
+Master,4,Kyurem (White),94.8,Dragon Breath,Fusion Flare,Ice Burn<sup>†</sup>
+Master,5,Lunala,94.8,Shadow Claw,Shadow Ball,Moonblast
+Master,6,Xerneas,94.8,Geomancy*,Close Combat,Moonblast
+Master,7,Dialga (Origin),94.0,Dragon Breath,Roar of Time<sup>†</sup>,Iron Head
+Master,8,Reshiram,94.0,Dragon Breath,Fusion Flare*,Draco Meteor
+Master,9,Zamazenta (Crowned Shield),93.9,Ice Fang,Close Combat,Behemoth Bash<sup>†</sup>
+Master,10,Kyurem (Black),93.1,Dragon Tail,Freeze Shock<sup>†</sup>,Fusion Bolt
+Master,11,Kyogre,93.0,Waterfall,Avalanche,Origin Pulse*
+Master,12,Zekrom,92.8,Dragon Breath,Outrage,Fusion Bolt*
+Master,13,Marshadow,92.6,Shadow Claw,Close Combat,Ice Punch
+Master,14,Reshiram (Shadow),92.5,Dragon Breath,Fusion Flare*,Draco Meteor
+Master,15,Eternatus,91.4,Dragon Tail,Dynamax Cannon*,Flamethrower
+Master,16,Palkia (Shadow),91.4,Dragon Breath,Aqua Tail,Draco Meteor
+Master,17,Lugia,91.0,Dragon Tail,Aeroblast*,Fly
+Master,18,Metagross (Shadow),90.5,Shadow Claw*,Meteor Mash*,Earthquake
+Master,19,Lugia (Shadow),90.2,Dragon Tail,Aeroblast*,Fly
+Master,20,Garchomp (Shadow),89.7,Dragon Tail,Twister,Earth Power*
+Master,21,Necrozma (Dawn Wings),89.6,Shadow Claw,Dark Pulse,Moongeist Beam
+Master,22,Yveltal,89.6,Sucker Punch,Dark Pulse,Oblivion Wing*
+Master,23,Garchomp,88.7,Dragon Tail,Twister,Earth Power*
+Master,24,Ho-Oh,88.7,Incinerate,Brave Bird,Sacred Fire*
+Master,25,Zygarde (Complete Forme),88.6,Dragon Tail,Crunch,Earthquake
+Master,26,Meloetta (Aria),88.5,Confusion,Psyshock,Dazzling Gleam
+Master,27,Palkia,88.4,Dragon Breath,Aqua Tail,Fire Blast
+Master,28,Latios,88.0,Dragon Breath,Aura Sphere,Luster Purge*
+Master,29,Latios (Shadow),88.0,Dragon Breath,Aura Sphere,Luster Purge*
+Master,30,Kyogre (Shadow),87.9,Waterfall,Avalanche,Origin Pulse*
+Master,31,Necrozma (Dusk Mane),87.7,Shadow Claw,Dark Pulse,Sunsteel Strike
+Master,32,Gyarados (Shadow),87.6,Dragon Breath,Aqua Tail*,Twister
+Master,33,Groudon,87.4,Dragon Tail,Fire Punch*,Precipice Blades*
+Master,34,Gholdengo,87.0,Hex,Shadow Ball,Focus Blast
+Master,35,Mewtwo (Shadow),87.0,Psycho Cut,Psystrike*,Shadow Ball*
+Master,36,Florges,86.8,Fairy Wind,Moonblast,Chilling Water*
+Master,37,Solgaleo,86.8,Fire Spin,Psychic Fangs,Iron Head
+Master,38,Melmetal,86.6,Thunder Shock,Double Iron Bash*,Dynamic Punch
+Master,39,Keldeo (Resolute),86.3,Low Kick,Secret Sword*,Aqua Jet
+Master,40,Latias (Shadow),86.3,Dragon Breath,Aura Sphere,Mist Ball*
+Master,41,Dialga,86.0,Dragon Breath,Iron Head,Draco Meteor
+Master,42,Dialga (Shadow),86.0,Dragon Breath,Iron Head,Draco Meteor
+Master,43,Hydreigon (Shadow),85.3,Dragon Breath,Brutal Swing*,Fly
+Master,44,Jirachi,85.2,Confusion,Doom Desire,Aura Sphere
+GreatMega,1,Lickilicky,93.6,Rollout,Body Slam*,Shadow Ball
+GreatMega,2,Tinkaton,92.7,Fairy Wind,Gigaton Hammer*,Bulldoze
+GreatMega,3,Altaria,92.1,Dragon Breath,Sky Attack,Flamethrower
+GreatMega,4,Empoleon,92.1,Metal Sound,Hydro Cannon*,Drill Peck
+GreatMega,5,Mimikyu,92.1,Shadow Claw,Shadow Sneak,Play Rough
+GreatMega,6,Sableye (Mega),92.0,Shadow Claw,Foul Play,Power Gem
+GreatMega,7,Altaria (Shadow),91.9,Dragon Breath,Sky Attack,Flamethrower
+GreatMega,8,Quagsire (Shadow),91.9,Mud Shot,Aqua Tail*,Mud Bomb
+GreatMega,9,Empoleon (Shadow),91.8,Metal Sound,Hydro Cannon*,Drill Peck
+GreatMega,10,Quagsire,91.6,Mud Shot,Aqua Tail*,Mud Bomb
+GreatMega,11,Forretress,91.4,Volt Switch,Sand Tomb,Rock Tomb
+GreatMega,12,Jellicent,91.4,Hex,Surf,Shadow Ball
+GreatMega,13,Ninetales,91.3,Ember*,Weather Ball (Fire),Energy Ball*
+GreatMega,14,Forretress (Shadow),91.0,Volt Switch,Sand Tomb,Rock Tomb
+GreatMega,15,Jumpluff,91.0,Fairy Wind,Energy Ball,Acrobatics*
+GreatMega,16,Ninetales (Shadow),91.0,Ember*,Weather Ball (Fire),Energy Ball*
+GreatMega,17,Feraligatr,90.9,Shadow Claw,Hydro Cannon*,Ice Beam
+GreatMega,18,Clodsire,90.7,Poison Sting,Earthquake,Stone Edge
+GreatMega,19,Fearow,90.7,Peck,Drill Peck,Drill Run
+GreatMega,20,Corviknight,90.6,Sand Attack,Air Cutter*,Payback
+GreatMega,21,Cramorant,90.6,Peck,Dive,Fly
+GreatMega,22,Feraligatr (Shadow),90.6,Shadow Claw,Hydro Cannon*,Ice Beam
+GreatMega,23,Guzzlord,90.6,Dragon Tail,Brutal Swing,Sludge Bomb
+GreatMega,24,Kingdra (Shadow),90.6,Dragon Breath,Surf,Swift
+GreatMega,25,Azumarill,90.5,Bubble,Ice Beam,Play Rough
+GreatMega,26,Corsola (Galarian),90.5,Astonish,Night Shade,Power Gem
+GreatMega,27,Kingdra,90.5,Dragon Breath,Surf,Swift
+GreatMega,28,Corviknight (Shadow),90.3,Sand Attack,Air Cutter*,Payback
+GreatMega,29,Dragonair (Shadow),90.2,Dragon Breath,Wrap,Aqua Tail
+GreatMega,30,Sableye (Shadow),90.2,Shadow Claw,Foul Play,Drain Punch
+GreatMega,31,Furret,90.1,Sucker Punch,Swift,Trailblaze
+GreatMega,32,Lapras,90.1,Psywave,Sparkling Aria,Ice Beam*
+GreatMega,33,Seismitoad,90.1,Mud Shot,Earth Power,Icy Wind
+GreatMega,34,Umbreon,90.1,Snarl,Foul Play,Last Resort*
+GreatMega,35,Dragonair,90.0,Dragon Breath,Aqua Tail,Dragon Pulse
+GreatMega,36,Medicham,90.0,Psycho Cut,Ice Punch,Dynamic Punch
+GreatMega,37,Sliggoo,90.0,Dragon Breath,Body Slam,Dragon Pulse
+GreatMega,38,Talonflame,90.0,Incinerate*,Fly,Brave Bird
+GreatMega,39,Malamar (Mega),89.8,Psywave,Foul Play,Superpower
+GreatMega,40,Oinkologne (Female),89.7,Mud Slap*,Body Slam,Trailblaze
+GreatMega,41,Sealeo,89.7,Powder Snow,Surf,Body Slam
+GreatMega,42,Florges,89.6,Fairy Wind,Chilling Water*,Disarming Voice
+GreatMega,43,Greedent,89.6,Mud Shot,Body Slam,Trailblaze
+GreatMega,44,Wigglytuff,89.6,Charm,Icy Wind,Swift
+GreatMega,45,Sableye,89.5,Shadow Claw,Foul Play,Power Gem
+GreatMega,46,Thievul,89.5,Sucker Punch,Night Slash,Icy Wind*
+GreatMega,47,Clefable,89.4,Fairy Wind,Moonblast,Meteor Mash
+GreatMega,48,Cradily,89.4,Acid,Rock Tomb,Grass Knot
+GreatMega,49,Dusclops,89.4,Hex,Ice Punch,Shadow Punch
+GreatMega,50,Grumpig,89.4,Psywave,Dynamic Punch,Shadow Ball
+GreatMega,51,Moltres (Galarian),89.4,Sucker Punch,Fly,Brave Bird
+GreatMega,52,Sealeo (Shadow),89.4,Powder Snow,Surf,Body Slam
+GreatMega,53,Blastoise,89.3,Rollout,Hydro Cannon*,Skull Bash
+GreatMega,54,Talonflame (Shadow),89.3,Incinerate*,Flame Charge,Fly
+GreatMega,55,Diggersby,89.2,Mud Shot,Fire Punch,Scorching Sands
+GreatMega,56,Dusclops (Shadow),89.1,Hex,Ice Punch,Shadow Punch
+GreatMega,57,Lapras (Shadow),89.1,Psywave,Sparkling Aria,Ice Beam*
+GreatMega,58,Charjabug,89.0,Volt Switch*,X-Scissor,Discharge
+GreatMega,59,Dewgong,89.0,Ice Shard*,Icy Wind*,Drill Run
+GreatMega,60,Drapion (Shadow),89.0,Poison Sting,Crunch,Aqua Tail
+GreatMega,61,Gastrodon,89.0,Mud Slap,Body Slam,Earth Power
+GreatMega,62,Ninetales (Alolan),88.9,Powder Snow,Weather Ball (Ice),Chilling Water*
+GreatMega,63,Swampert,88.9,Mud Shot,Hydro Cannon*,Earthquake
+GreatMega,64,Steelix (Shadow),88.8,Thunder Fang,Psychic Fangs,Crunch
+GreatMega,65,Swampert (Shadow),88.8,Mud Shot,Hydro Cannon*,Earthquake
+GreatMega,66,Mandibuzz,88.7,Snarl,Foul Play,Shadow Ball
+GreatMega,67,Marowak (Shadow),88.7,Mud Slap,Bone Club,Rock Slide
+GreatMega,68,Ninetales (Alolan) (Shadow),88.7,Powder Snow,Weather Ball (Ice),Chilling Water*
+GreatMega,69,Aegislash (Shield),88.6,Psycho Cut,Shadow Ball,Gyro Ball
+GreatMega,70,Malamar,88.6,Psywave,Superpower,Foul Play
+GreatMega,71,Mantine,88.6,Wing Attack,Twister,Water Pulse
+GreatMega,72,Hydreigon (Shadow),88.4,Dragon Breath,Brutal Swing*,Fly
+GreatMega,73,Shelgon,88.3,Dragon Breath,Twister,Flamethrower
+GreatMega,74,Stunfisk (Galarian),88.3,Mud Shot,Rock Slide,Earthquake
+GreatMega,75,Bastiodon,88.2,Smack Down,Stone Edge,Flamethrower
+GreatMega,76,Morpeko (Full Belly),88.2,Thunder Shock,Aura Wheel,Psychic Fangs
+GreatMega,77,Registeel,88.2,Lock On,Flash Cannon,Focus Blast
+GreatMega,78,Shelgon (Shadow),88.2,Dragon Breath,Twister,Flamethrower
+GreatMega,79,Dondozo,88.1,Waterfall,Surf,Outrage
+GreatMega,80,Jumpluff (Shadow),88.1,Fairy Wind,Energy Ball,Acrobatics*
+GreatMega,81,Seaking,88.1,Peck,Drill Run*,Icy Wind*
+GreatMega,82,Dunsparce,88.0,Rollout,Drill Run,Rock Slide
+GreatMega,83,Stunfisk,88.0,Thunder Shock,Mud Bomb,Discharge
+GreatMega,84,Morgrem,87.9,Sucker Punch,Foul Play,Play Rough
+GreatMega,85,Turtonator,87.9,Incinerate,Brutal Swing,Dragon Claw
+GreatMega,86,Aromatisse,87.8,Fairy Wind,Psyshock,Moonblast
+GreatMega,87,Gourgeist (Average),87.7,Incinerate,Shadow Ball,Seed Bomb
+GreatMega,88,Gourgeist (Large),87.7,Incinerate,Shadow Ball,Seed Bomb
+GreatMega,89,Gourgeist (Super),87.7,Incinerate,Shadow Ball,Seed Bomb
+GreatMega,90,Hydreigon,87.7,Dragon Breath,Brutal Swing*,Fly
+GreatMega,91,Malamar (Shadow),87.7,Psywave,Foul Play,Superpower
+GreatMega,92,Milotic,87.7,Waterfall,Aqua Tail,Wrap
+GreatMega,93,Samurott,87.6,Fury Cutter,Hydro Cannon*,Megahorn
+GreatMega,94,Crustle,87.5,Fury Cutter,X-Scissor,Rock Wrecker
+GreatMega,95,Pelipper,87.5,Wing Attack,Weather Ball (Water),Hurricane
+GreatMega,96,Drapion,87.4,Poison Sting,Crunch,Aqua Tail
+GreatMega,97,Oranguru,87.4,Confusion,Brutal Swing,Trailblaze
+GreatMega,98,Doublade,87.3,Shadow Claw,Sacred Sword,Gyro Ball
+GreatMega,99,Gourgeist (Small),87.3,Incinerate,Shadow Ball,Seed Bomb
+GreatMega,100,Melmetal,87.2,Thunder Shock,Double Iron Bash*,Dynamic Punch
+GreatMega,101,Milotic (Shadow),87.1,Waterfall,Aqua Tail,Wrap
+GreatMega,102,Dusknoir (Shadow),87.0,Astonish,Dynamic Punch,Shadow Punch
+GreatMega,103,Castform (Sunny),86.9,Ember,Weather Ball (Fire),Solar Beam
+GreatMega,104,Crustle (Shadow),86.9,Fury Cutter,X-Scissor,Rock Wrecker
+GreatMega,105,Politoed (Shadow),86.8,Mud Shot,Weather Ball (Water),Ice Beam*
+GreatMega,106,Miltank,86.7,Rollout,Body Slam,Thunderbolt
+GreatMega,107,Spidops,86.7,Shadow Claw,Lunge,Rock Tomb
+GreatMega,108,Sylveon,86.7,Fairy Wind,Psyshock*,Shadow Ball
+GreatMega,109,Aurorus,86.6,Powder Snow,Weather Ball (Ice),Meteor Beam
+GreatMega,110,Carbink,86.6,Rock Throw,Rock Slide,Moonblast
+GreatMega,111,Golisopod,86.6,Fury Cutter,X-Scissor,Aqua Jet
+GreatMega,112,Primeape (Shadow),86.6,Karate Chop*,Rage Fist*,Ice Punch
+GreatMega,113,Weezing (Galarian) (Shadow),86.5,Fairy Wind,Sludge,Brutal Swing
+GreatMega,114,Hippowdon,86.4,Sand Attack,Weather Ball (Rock),Earth Power
+GreatMega,115,Kommo-o,86.4,Dragon Tail,Clanging Scales*,Upper Hand
+GreatMega,116,Sandslash (Alolan),86.4,Powder Snow,Ice Punch,Drill Run
+GreatMega,117,Toucannon (Shadow),86.4,Peck,Beak Blast*,Drill Peck
+GreatMega,118,Gligar,86.3,Wing Attack,Night Slash,Dig
+GreatMega,119,Ludicolo,86.3,Astonish,Weather Ball (Water),Energy Ball
+GreatMega,120,Toucannon,86.3,Peck,Beak Blast*,Drill Peck
+GreatMega,121,Walrein,86.3,Powder Snow*,Icicle Spear*,Earthquake
+GreatMega,122,Greninja (Shadow),86.2,Water Shuriken,Hydro Cannon*,Night Slash
+GreatMega,123,Bellibolt,86.1,Thunder Shock,Zap Cannon,Parabolic Charge
+GreatMega,124,Dusknoir,86.1,Astonish,Dynamic Punch,Shadow Punch
+GreatMega,125,Klefki,86.1,Astonish,Foul Play,Play Rough
+GreatMega,126,Gligar (Shadow),86.0,Wing Attack,Night Slash,Dig
+GreatMega,127,Noctowl,86.0,Wing Attack,Shadow Ball,Return<sup>†</sup>
+GreatMega,128,Regidrago,86.0,Dragon Breath*,Dragon Energy*,Vise Grip
+GreatMega,129,Goodra,85.9,Dragon Breath,Aqua Tail,Thunder Punch*
+GreatMega,130,Lickitung,85.9,Lick,Body Slam*,Power Whip
+GreatMega,131,Murkrow (Shadow),85.9,Peck,Drill Peck,Foul Play
+GreatMega,132,Sandslash (Alolan) (Shadow),85.9,Powder Snow,Ice Punch,Drill Run
+GreatMega,133,Zweilous,85.9,Dragon Breath,Body Slam,Dark Pulse
+GreatMega,134,Lumineon,85.8,Gust,Aqua Tail,Silver Wind
+GreatMega,135,Araquanid,85.7,Bug Bite,Water Pulse,Bubble Beam
+GreatMega,136,Lanturn,85.7,Water Gun,Surf,Thunderbolt
+GreatMega,137,Spiritomb,85.7,Sucker Punch,Rock Tomb,Shadow Ball
+GreatMega,138,Zweilous (Shadow),85.7,Dragon Breath,Body Slam,Dark Pulse
+GreatMega,139,Araquanid (Shadow),85.6,Bug Bite,Bubble Beam,Water Pulse
+GreatMega,140,Hakamo-o,85.6,Dragon Tail,Brick Break,Rock Tomb
+GreatMega,141,Diggersby (Shadow),85.5,Mud Shot,Scorching Sands,Fire Punch
+GreatMega,142,Linoone,85.5,Shadow Claw,Swift,Grass Knot
+GreatMega,143,Marowak,85.5,Mud Slap,Bone Club,Rock Slide
+GreatMega,144,Steelix,85.5,Thunder Fang,Psychic Fangs,Crunch
+GreatMega,145,Swalot,85.4,Mud Shot,Sludge,Ice Beam
+GreatMega,146,Togekiss,85.4,Peck,Psyshock,Aura Sphere*
+GreatMega,147,Dewott,85.3,Fury Cutter,Aqua Tail,X-Scissor
+GreatMega,148,Grumpig (Shadow),85.3,Psywave,Dynamic Punch,Shadow Ball
+GreatMega,149,Pachirisu,85.3,Volt Switch,Hyper Fang,Thunder Punch
+GreatMega,150,Walrein (Shadow),85.3,Powder Snow*,Icicle Spear*,Earthquake
+GreatMega,151,Annihilape,85.2,Low Kick,Rage Fist*,Ice Punch
+GreatMega,152,Poliwrath,85.2,Mud Shot,Icy Wind,Dynamic Punch
+GreatMega,153,Dragalge,85.1,Acid,Aqua Tail,Outrage
+GreatMega,154,Dudunsparce,85.1,Rollout,Body Slam,Drill Run
+GreatMega,155,Giratina (Altered) (Shadow),85.1,Dragon Breath,Dragon Claw,Shadow Sneak
+GreatMega,156,Metang (Shadow),85.1,Fury Cutter,Psyshock,Gyro Ball
+GreatMega,157,Politoed,85.1,Mud Shot,Weather Ball (Water),Ice Beam*
+GreatMega,158,Pidgeot,85.0,Gust*,Air Cutter*,Brave Bird
+UltraMega,1,Mimikyu,95.9,Shadow Claw,Shadow Sneak,Play Rough
+UltraMega,2,Lickilicky,93.7,Rollout,Body Slam*,Shadow Ball
+UltraMega,3,Corviknight,93.3,Sand Attack,Air Cutter*,Payback
+UltraMega,4,Tinkaton,93.3,Fairy Wind,Gigaton Hammer*,Bulldoze
+UltraMega,5,Corviknight (Shadow),93.1,Sand Attack,Air Cutter*,Payback
+UltraMega,6,Florges,93.0,Fairy Wind,Chilling Water*,Disarming Voice
+UltraMega,7,Empoleon (Shadow),92.6,Metal Sound,Hydro Cannon*,Drill Peck
+UltraMega,8,Virizion,92.6,Double Kick,Leaf Blade,Sacred Sword*
+UltraMega,9,Empoleon,92.4,Metal Sound,Hydro Cannon*,Drill Peck
+UltraMega,10,Moltres (Galarian),92.2,Sucker Punch,Fly,Brave Bird
+UltraMega,11,Forretress,91.7,Volt Switch,Rock Tomb,Sand Tomb
+UltraMega,12,Jellicent,91.7,Hex,Surf,Shadow Ball
+UltraMega,13,Zygarde (Complete Forme),91.5,Dragon Tail,Crunch,Earthquake
+UltraMega,14,Ninetales (Alolan),91.2,Powder Snow,Weather Ball (Ice),Chilling Water*
+UltraMega,15,Forretress (Shadow),91.1,Volt Switch,Rock Tomb,Sand Tomb
+UltraMega,16,Ninetales (Alolan) (Shadow),90.9,Powder Snow,Weather Ball (Ice),Chilling Water*
+UltraMega,17,Kingdra,90.8,Dragon Breath,Surf,Swift
+UltraMega,18,Dusknoir,90.7,Astonish,Dynamic Punch,Shadow Punch
+UltraMega,19,Malamar (Mega),90.7,Psywave,Foul Play,Superpower
+UltraMega,20,Registeel,90.7,Lock On,Flash Cannon,Focus Blast
+UltraMega,21,Dusknoir (Shadow),90.6,Astonish,Dynamic Punch,Shadow Punch
+UltraMega,22,Lapras,90.6,Psywave,Sparkling Aria,Ice Beam*
+UltraMega,23,Blastoise,90.5,Rollout,Hydro Cannon*,Skull Bash
+UltraMega,24,Cramorant,90.5,Peck,Dive,Fly
+UltraMega,25,Feraligatr (Shadow),90.5,Shadow Claw,Hydro Cannon*,Ice Beam
+UltraMega,26,Talonflame,90.5,Incinerate*,Fly,Brave Bird
+UltraMega,27,Dondozo,90.4,Waterfall,Surf,Outrage
+UltraMega,28,Lapras (Shadow),90.4,Psywave,Sparkling Aria,Ice Beam*
+UltraMega,29,Malamar (Shadow),90.4,Psywave,Foul Play,Superpower
+UltraMega,30,Regidrago,90.4,Dragon Breath*,Dragon Energy*,Vise Grip
+UltraMega,31,Walrein,90.4,Powder Snow*,Icicle Spear*,Earthquake
+UltraMega,32,Walrein (Shadow),90.4,Powder Snow*,Icicle Spear*,Earthquake
+UltraMega,33,Giratina (Altered),90.3,Dragon Breath,Dragon Claw,Shadow Sneak
+UltraMega,34,Bellibolt,90.1,Sucker Punch,Parabolic Charge,Zap Cannon
+UltraMega,35,Malamar,90.1,Psywave,Foul Play,Superpower
+UltraMega,36,Annihilape,89.9,Low Kick,Rage Fist*,Close Combat
+UltraMega,37,Talonflame (Shadow),89.9,Incinerate*,Fly,Brave Bird
+UltraMega,38,Annihilape (Shadow),89.8,Low Kick,Rage Fist*,Close Combat
+UltraMega,39,Kingdra (Shadow),89.8,Dragon Breath,Surf,Swift
+UltraMega,40,Ninetales,89.8,Ember*,Weather Ball (Fire),Energy Ball*
+UltraMega,41,Steelix,89.8,Thunder Fang,Psychic Fangs,Crunch
+UltraMega,42,Cresselia,89.7,Psycho Cut,Grass Knot*,Moonblast
+UltraMega,43,Giratina (Altered) (Shadow),89.6,Dragon Breath,Dragon Claw,Shadow Sneak
+UltraMega,44,Runerigus,89.5,Shadow Claw,Rock Tomb,Shadow Ball
+UltraMega,45,Milotic,89.4,Waterfall,Aqua Tail,Wrap
+UltraMega,46,Seaking,89.4,Peck,Drill Run*,Icy Wind*
+UltraMega,47,Steelix (Shadow),89.4,Thunder Fang,Psychic Fangs,Crunch
+UltraMega,48,Feraligatr,89.3,Shadow Claw,Hydro Cannon*,Ice Beam
+UltraMega,49,Cradily,89.2,Acid,Rock Tomb,Grass Knot
+UltraMega,50,Clefable,89.1,Fairy Wind,Meteor Mash,Moonblast
+UltraMega,51,Cradily (Shadow),89.1,Acid,Rock Tomb,Grass Knot
+UltraMega,52,Cresselia (Shadow),89.1,Psycho Cut,Grass Knot*,Moonblast
+UltraMega,53,Ninetales (Shadow),89.1,Ember*,Weather Ball (Fire),Energy Ball*
+UltraMega,54,Swampert,89.1,Mud Shot,Hydro Cannon*,Earthquake
+UltraMega,55,Togekiss,89.1,Peck,Psyshock,Aura Sphere*
+UltraMega,56,Ampharos (Shadow),89.0,Volt Switch,Brutal Swing,Trailblaze
+UltraMega,57,Ampharos,88.9,Volt Switch,Brutal Swing,Trailblaze
+UltraMega,58,Aromatisse,88.9,Fairy Wind,Psyshock,Moonblast
+UltraMega,59,Oranguru,88.9,Confusion,Brutal Swing,Trailblaze
+UltraMega,60,Orthworm,88.9,Mud Slap,Rock Tomb,Earthquake
+UltraMega,61,Raichu (Mega X),88.9,Volt Switch,Brick Break,Trailblaze
+UltraMega,62,Turtonator,88.9,Incinerate,Brutal Swing,Dragon Claw
+UltraMega,63,Gyarados,88.8,Dragon Breath,Aqua Tail*,Twister
+UltraMega,64,Hydreigon (Shadow),88.7,Dragon Breath,Brutal Swing*,Fly
+UltraMega,65,Melmetal,88.7,Thunder Shock,Double Iron Bash*,Dynamic Punch
+UltraMega,66,Milotic (Shadow),88.7,Waterfall,Aqua Tail,Wrap
+UltraMega,67,Hippowdon,88.6,Sand Attack,Weather Ball (Rock),Earth Power
+UltraMega,68,Golisopod,88.5,Fury Cutter,X-Scissor,Aqua Jet
+UltraMega,69,Raikou (Shadow),88.5,Thunder Shock,Wild Charge,Aura Sphere
+UltraMega,70,Sylveon,88.5,Fairy Wind,Moonblast,Shadow Ball
+UltraMega,71,Toucannon,88.5,Peck,Beak Blast*,Drill Peck
+UltraMega,72,Toucannon (Shadow),88.5,Peck,Beak Blast*,Drill Peck
+UltraMega,73,Cobalion,88.4,Double Kick,Sacred Sword*,Stone Edge
+UltraMega,74,Hippowdon (Shadow),88.4,Sand Attack,Weather Ball (Rock),Earth Power
+UltraMega,75,Primarina,88.4,Waterfall,Disarming Voice,Hydro Cannon*
+UltraMega,76,Guzzlord,88.3,Dragon Tail,Brutal Swing,Dragon Claw
+UltraMega,77,Seismitoad,88.3,Mud Shot,Earth Power,Icy Wind
+UltraMega,78,Weezing (Galarian),88.3,Fairy Wind,Brutal Swing,Sludge
+UltraMega,79,Dragalge,88.2,Dragon Tail,Aqua Tail,Outrage
+UltraMega,80,Aurorus,88.1,Powder Snow,Weather Ball (Ice),Meteor Beam
+UltraMega,81,Samurott,88.1,Fury Cutter,Hydro Cannon*,Megahorn
+UltraMega,82,Weezing (Galarian) (Shadow),88.1,Fairy Wind,Brutal Swing,Sludge
+UltraMega,83,Sandslash (Alolan) (Shadow),88.0,Powder Snow,Ice Punch,Drill Run
+UltraMega,84,Tentacruel,88.0,Acid,Scald,Payback
+UltraMega,85,Tentacruel (Shadow),88.0,Acid,Scald,Payback
+UltraMega,86,Drapion,87.9,Poison Sting,Crunch,Aqua Tail
+UltraMega,87,Goodra,87.9,Dragon Breath,Aqua Tail,Power Whip
+UltraMega,88,Sandslash (Alolan),87.9,Powder Snow,Ice Punch,Drill Run
+UltraMega,89,Blastoise (Shadow),87.8,Rollout,Hydro Cannon*,Ice Beam
+UltraMega,90,Gyarados (Shadow),87.8,Dragon Breath,Aqua Tail*,Twister
+UltraMega,91,Stunfisk,87.8,Thunder Shock,Mud Bomb,Discharge
+UltraMega,92,Dudunsparce,87.7,Rollout,Body Slam,Drill Run
+UltraMega,93,Aurorus (Shadow),87.6,Powder Snow,Weather Ball (Ice),Meteor Beam
+UltraMega,94,Crustle,87.5,Fury Cutter,X-Scissor,Rock Wrecker
+UltraMega,95,Drapion (Shadow),87.5,Poison Sting,Aqua Tail,Crunch
+UltraMega,96,Kommo-o,87.5,Dragon Tail,Clanging Scales*,Upper Hand
+UltraMega,97,Oinkologne (Female),87.5,Mud Slap*,Body Slam,Trailblaze
+UltraMega,98,Skeledirge,87.5,Incinerate,Torch Song,Shadow Ball
+UltraMega,99,Cofagrigus,87.3,Shadow Claw,Shadow Ball,Dark Pulse
+UltraMega,100,Gastrodon,87.3,Mud Slap,Body Slam,Earth Power
+UltraMega,101,Swampert (Shadow),87.3,Mud Shot,Hydro Cannon*,Earthquake
+UltraMega,102,Articuno,87.1,Powder Snow,Icy Wind,Hurricane*
+UltraMega,103,Dragonite (Mega),87.1,Dragon Breath,Superpower,Thunder Punch
+UltraMega,104,Grumpig,87.1,Psywave,Dynamic Punch,Shadow Ball
+UltraMega,105,Ludicolo,87.1,Astonish,Weather Ball (Water),Energy Ball
+UltraMega,106,Samurott (Shadow),87.0,Fury Cutter,Hydro Cannon*,Megahorn
+UltraMega,107,Grimmsnarl,86.9,Sucker Punch,Foul Play,Play Rough
+UltraMega,108,Kyurem,86.9,Dragon Breath,Glaciate*,Dragon Claw
+UltraMega,109,Miltank,86.9,Rollout,Body Slam,Ice Beam
+UltraMega,110,Raikou,86.9,Thunder Shock,Wild Charge,Aura Sphere
+UltraMega,111,Stunfisk (Galarian),86.8,Mud Shot,Rock Slide,Earthquake
+UltraMega,112,Abomasnow (Shadow),86.7,Powder Snow,Weather Ball (Ice),Energy Ball
+UltraMega,113,Latias,86.7,Dragon Breath,Mist Ball*,Aura Sphere
+UltraMega,114,Mandibuzz,86.7,Snarl,Foul Play,Shadow Ball
+UltraMega,115,Politoed (Shadow),86.7,Mud Shot,Weather Ball (Water),Earthquake*
+UltraMega,116,Zapdos,86.6,Thunder Shock*,Drill Peck,Thunderbolt
+UltraMega,117,Drifblim,86.5,Hex,Icy Wind,Shadow Ball
+UltraMega,118,Primeape,86.5,Karate Chop*,Rage Fist*,Close Combat
+UltraMega,119,Articuno (Shadow),86.4,Powder Snow,Icy Wind,Hurricane*
+UltraMega,120,Grumpig (Shadow),86.4,Psywave,Dynamic Punch,Shadow Ball
+UltraMega,121,Jirachi,86.4,Confusion,Doom Desire,Aura Sphere
+UltraMega,122,Nidoqueen,86.4,Mud Slap,Poison Fang,Earth Power
+UltraMega,123,Bombirdier,86.3,Sucker Punch,Fly,Rock Tomb
+UltraMega,124,Doublade,86.3,Shadow Claw,Sacred Sword,Gyro Ball
+UltraMega,125,Greedent,86.3,Mud Shot,Body Slam,Trailblaze
+UltraMega,126,Mewtwo (Armored),86.3,Confusion,Psystrike*,Dynamic Punch
+UltraMega,127,Altaria (Mega),85.9,Dragon Breath,Moonblast*,Sky Attack
+UltraMega,128,Blaziken (Shadow),85.9,Ember,Aura Sphere,Blast Burn*
+UltraMega,129,Coalossal,85.9,Fire Spin,Rock Slide,Flame Charge
+UltraMega,130,Gourgeist (Super),85.9,Incinerate,Shadow Ball,Seed Bomb
+UltraMega,131,Politoed,85.9,Mud Shot,Weather Ball (Water),Earthquake*
+UltraMega,132,Primeape (Shadow),85.8,Karate Chop*,Rage Fist*,Ice Punch
+UltraMega,133,Rapidash (Shadow),85.8,Incinerate,Wild Charge*,Drill Run
+UltraMega,134,Crustle (Shadow),85.7,Fury Cutter,X-Scissor,Rock Wrecker
+UltraMega,135,Mantine,85.7,Wing Attack,Twister,Water Pulse
+UltraMega,136,Zapdos (Shadow),85.7,Thunder Shock*,Drill Peck,Thunderbolt
+UltraMega,137,Abomasnow,85.6,Powder Snow,Weather Ball (Ice),Energy Ball
+UltraMega,138,Drifblim (Shadow),85.6,Hex,Shadow Ball,Icy Wind
+UltraMega,139,Spiritomb,85.6,Sucker Punch,Shadow Ball,Rock Tomb
+UltraMega,140,Gourgeist (Large),85.4,Incinerate,Shadow Ball,Seed Bomb
+UltraMega,141,Nidoqueen (Shadow),85.4,Mud Slap,Poison Fang,Earth Power
+UltraMega,142,Rapidash,85.4,Incinerate,Wild Charge*,Drill Run
+UltraMega,143,Scizor,85.4,Fury Cutter,Night Slash,Trailblaze
+UltraMega,144,Gourgeist (Average),85.3,Incinerate,Shadow Ball,Seed Bomb
+UltraMega,145,Trevenant (Shadow),85.3,Shadow Claw,Shadow Ball,Seed Bomb
+UltraMega,146,Palossand,85.2,Astonish,Shadow Ball,Sand Tomb
+UltraMega,147,Slurpuff,85.2,Fairy Wind,Energy Ball,Flamethrower
+UltraMega,148,Trevenant,85.2,Shadow Claw,Shadow Ball,Seed Bomb
+UltraMega,149,Tapu Fini,85.1,Water Gun,Surf,Nature's Madness*
+UltraMega,150,Zeraora,85.1,Volt Switch,Plasma Fists,Wild Charge
+UltraMega,151,Bronzong,85.0,Confusion,Weather Ball (Water),Payback
+MasterMega,1,Kyogre (Primal),99.4,Waterfall,Avalanche,Thunder
+MasterMega,2,Mewtwo (Mega X),95.5,Psycho Cut,Psystrike*,Thunderbolt
+MasterMega,3,Mewtwo (Mega Y),94.9,Psycho Cut,Psystrike*,Thunderbolt
+MasterMega,4,Gyarados (Mega),94.8,Dragon Breath,Aqua Tail*,Crunch
+MasterMega,5,Rayquaza (Mega),93.6,Dragon Tail,Breaking Swipe*,Dragon Ascent*
+MasterMega,6,Garchomp (Mega),93.0,Dragon Tail,Earth Power*,Twister
+MasterMega,7,Dragonite (Mega),92.8,Dragon Breath,Thunder Punch,Superpower
+MasterMega,8,Tyranitar (Mega),90.9,Dragon Breath,Brutal Swing,Stone Edge
+MasterMega,9,Groudon (Primal),90.4,Dragon Tail,Precipice Blades*,Fire Punch*
+MasterMega,10,Metagross (Mega),90.2,Shadow Claw*,Meteor Mash*,Earthquake
+MasterMega,11,Latias (Mega),86.8,Dragon Breath,Aura Sphere,Mist Ball*
+MasterMega,12,Latios (Mega),86.4,Dragon Breath,Aura Sphere,Luster Purge*
